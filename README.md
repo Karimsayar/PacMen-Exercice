@@ -4,6 +4,7 @@
 This exercise involves creating a PacMan image that moves across the screen and reverses direction using HTML, CSS, and JavaScript. The focus of this exercise is to demonstrate how to manipulate the Document Object Model (DOM) using JavaScript, which allows you to modify the content, structure, and style of a web page in real-time. By creating a PacMan image that moves across the screen and reverses direction, you will learn how to change the properties of an HTML element using JavaScript, such as its position, size, and visibility. Additionally, this exercise will give you an understanding of how the browser holds information in memory by updating the DOM in real-time as the PacMan moves across the screen. This exercise is suitable for anyone who wants to learn more about JavaScript and DOM manipulation and is looking for a fun and interactive way to do so.
 
 
+
 Goal: Improve the PacMan animation.
 
 Initiatives:
