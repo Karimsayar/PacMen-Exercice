@@ -5,6 +5,7 @@ This exercise involves creating a PacMan image that moves across the screen and 
 
 
 
+
 Goal: Improve the PacMan animation.
 
 Initiatives:
